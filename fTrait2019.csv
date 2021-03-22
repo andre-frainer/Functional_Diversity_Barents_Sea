@@ -1,0 +1,52 @@
+﻿fullName;oldName;abbName;benthivorous;ichtyvorous;planktivorous;demersal;pelagic;reproduction;fecMean;offspring;ML;shape;salinityRange;tempRange;depthRange;eggSize;fecundity;maxBodySize;longevity;ageMaturity;lengthMaturity;developRate;resourceDetritus;resourceZoo;resourceBenth;resourceFish;predatorZoo;predatorBenthic;predatorFish;predatorBirds;predatorMammals;omnivory;trophLevel;omnivLevel;Habitat;Biogeographic affiliation;Diet
+Amblyraja hyperborea;Amblyraja hyperborea;Amb_hyp;5;5;0;10;0;dem;30;3;89.00;flat;1;2;3;102.5;30;89.00;24.00;11.00;45.00;4.09;0;4;4;21;0;0;1;0;0;0.411599584;4.590199;3.66E-01;1;1;4
+Amblyraja radiata;Amblyraja radiata;Amb_rad;5;5;0;10;0;dem;26.5;3;68.70;flat;3;3;3;55;27;68.70;16.00;11.00;35.00;3.18;0;8;18;34;0;0;2;0;0;0.484348482;4.30024;4.79E-01;1;3;4
+Anarhichas denticulatus;Anarhichas denticulatus;Ana_den;3.333;3.333;3.333;10;0;dem;46500;2;162.00;elongated;2;2;3;6;46500;162.00;16.00;6.00;80.00;13.33;0;9;8;4;0;0;5;0;1;0.431134908;4.031337;3.69E-01;1;3;1
+Anarhichas lupus;Anarhichas lupus;Ana_lup;10;0;0;10;0;dem;12740;2;104.00;elongated;2;3;3;6;12740;104.00;20.00;6.00;50.00;8.33;0;7;18;2;0;0;7;0;2;0.450545481;3.51905;3.22E-01;1;3;1
+Anarhichas minor;Anarhichas minor;Ana_min;10;0;0;10;0;dem;19700;2;138.40;elongated;3;3;3;3.35;19700;138.40;40.00;7.00;70.00;10.00;0;7;10;4;0;0;6;0;1;0.545241073;3.80713;5.39E-01;1;3;1
+Anisarchus medius;Anisarchus medius;Ani_med;10;0;0;10;0;dem;700;1;15.60;eellike;3;2;2;2;700;13.20;13.00;6.00;9.50;1.58;0;4;0;0;0;0;1;0;2;0.25;3.052083;9.84E-02;1;3;1
+Argentina silus;Argentina silus;Arg_sil;0;0;10;0;10;pel;10381;2;55.00;elongated;1;3;3;3.25;10381;49.00;35.00;8.00;26.00;3.25;0;2;2;0;0;0;5;1;1;0.463360009;3.388844;1.57E-01;2;3;2
+Artediellus atlanticus;Artediellus atlanticus;Art_atl;5;5;0;10;0;dem;117.5;2;9.10;elongated;3;3;3;2.25;62;14.30;10.00;3.50;5.10;1.46;0;2;3;1;0;0;4;0;1;0.47613715;4.151106;2.97E-01;1;3;1
+Aspidophoroides olrikii;Aspidophoroides olrikii;Asp_olr;10;0;0;10;0;dem;180;1;8.60;elongated;3;3;1;1.125;180;8.60;4.00;2.00;6.00;3.00;0;0;3;0;0;0;1;0;0;0.288675135;3.166667;5.56E-02;1;1;1
+Bathyraja spinicauda;Bathyraja spinicauda;Bat_spi;5;5;0;10;0;dem;47;3;165.00;flat;1;2;3;130;47;165.00;50.00;12.00;118.00;9.83;0;2;3;10;0;0;1;0;0;0.509173861;4.489166;5.24E-01;1;3;3
+Brosme brosme;Brosme brosme;Bro_bro;10;0;0;10;0;pel;2300000;1;69.00;elongated;2;3;3;1.35;2300000;69.00;20.00;9.00;53.00;5.89;0;0;4;5;0;0;4;0;0;0.657709736;4.190535;8.30E-01;1;3;1
+Chimaera monstrosa;Chimaera monstrosa;Chi_mon;10;0;0;10;0;dem;100;3;150.00;elongated;1;2;2;165;100;150.00;26.00;11.50;45.90;3.99;NA;NA;NA;NA;NA;NA;NA;NA;NA;0;NA;NA;1;3;1
+Cottunculus microps;Cottunculus sadko;Cott_mic;10;0;0;10;0;dem;375;2;19.00;elongated;1;2;3;1.85;375;19.00;25.00;3.00;24.00;8.00;0;0;4;0;0;0;4;0;0;0.508432298;3.501701;2.93E-01;1;1;1
+Cyclopterus lumpus;Cyclopterus lumpus;Cyc_lum;0;0;10;5;5;dem;194112;2;55.00;short;2;3;3;2.6;194112;55.00;15.00;3.00;29.00;9.67;0;5;3;0;0;1;1;0;0;0.469644272;3.570904;3.30E-01;1;3;2
+Enchelyopus cimbrius;Enchelyopus cimbrius;Enc_cim;5;0;5;10;0;pel;500000;1;36.00;elongated;1;2;1;0.82;500000;36.00;9.00;3.00;12.70;4.23;0;0;2;0;0;0;2;0;0;0.67882251;3.615992;3.79E-01;1;3;1
+Eumicrotremus derjugini;Eumicrotremus derjugini;Eum_der;0;0;10;10;0;dem;2000;2;9.50;short;1;1;1;1.25;2000;11.30;3.00;1.00;4.30;4.30;0;5;2;0;0;1;0;0;1;0.361459315;NA;NA;1;1;2
+Eumicrotremus spinosus;Eumicrotremus spinosus;Eum_spi;0;0;10;10;0;dem;1187;2;10.00;short;3;2;3;3;636;14.00;3.00;1.00;5.60;5.60;0;5;2;0;0;1;0;0;1;0.361459315;3.925971;2.05E-01;1;1;2
+Gadiculus argenteus;Gadiculus argenteus;Gad_arg;0;0;10;0;10;pel;2763809;1;16.00;normal;1;2;1;1;2763809;22.00;4.00;2.00;12.60;6.30;0;9;0;1;0;0;3;0;2;0.460479933;3.881003;3.95E-01;2;3;2
+Gadus morhua;Gadus morhua;Gad_mor;0;5;5;5;5;pel;5900000;1;123.10;normal;3;3;3;1.39;5900000;123.10;25.00;9.00;69.70;7.74;0;19;32;52;0;0;18;6;11;0.521017244;4.109565;5.92E-01;1;3;3
+Gaidropsarus argentatus;Gaidropsarus argentatus;Gai_arg;5;0;5;10;0;pel;500000;1;45.00;elongated;1;2;3;1.27;500000;42.00;10.00;4.00;25.00;6.25;0;6;2;1;0;0;1;0;0;0.399730878;3.950996;1.89E-01;1;1;4
+Glyptocephalus cynoglossus;Glyptocephalus cynoglossus;Gly_cyn;10;0;0;10;0;pel;100000;1;62.00;flat;1;2;2;1.16;100000;62.00;18.00;4.50;30.40;6.76;0;0;4;0;0;0;2;0;3;0.547158767;3.581255;3.46E-01;1;3;1
+Gymnocanthus tricuspis;Gymnocanthus tricuspis;Gym_tri;10;0;0;10;0;dem;4710;1;14.00;elongated;3;3;2;1.5;4655;21.00;8.00;4.00;11.80;2.95;0;4;6;0;0;0;1;0;0;0.300751374;3.165856;8.32E-02;1;1;1
+Hippoglossus hippoglossus;Hippoglossus hippoglossus;Hip_hip;0;10;0;10;0;pel;3750000;2;220.00;flat;1;1;2;3.4;3750000;220.00;50.00;12.00;105.00;8.75;0;0;11;7;0;0;3;0;1;0.661718413;3.94761;8.09E-01;1;3;3
+Hippoglossoides platessoides;Hippoglossoides platessoides;Hip_pla;5;5;0;10;0;pel;380000;2;54.00;flat;3;3;3;2.44;380000;54.00;19.00;2.60;35.20;13.54;0;2;10;7;0;0;13;1;5;0.46901911;4.08855;4.39E-01;1;3;4
+Icelus;Icelus spp;Ice_spp;5;0;5;10;0;dem;457.5;2;13.75;elongated;2;2;2;1.7;564;13.85;9;2;5.5;2.75;0;5;3;0;0;0;1;0;0;0.37416201;3.387669;2.85E-01;1;2;1
+Leptagonus decagonus;Leptagonus decagonus;Lep_dec;5;0;5;10;0;dem;627;1;21.00;elongated;3;2;3;2;687;21.10;11.00;3.00;11.60;3.87;0;8;3;0;0;0;4;0;0;0.412957794;3.652329;2.66E-01;1;2;1
+Leptoclinus maculatus;Leptoclinus maculatus;Lep_mac;10;0;0;10;0;dem;920;1;15.00;eellike;3;3;3;1.5;644;17.60;10.00;6.00;8.90;1.48;0;0;2;0;0;0;1;0;1;0;3;1.44E-28;1;3;1
+Limanda limanda;Limanda limanda;Lim_lim;10;0;0;10;0;pel;141000;1;43.00;flat;3;3;1;1.2;141000;43.00;13.00;5.00;22.00;4.40;0;0;14;1;0;0;4;1;1;0.518211191;3.571887;3.68E-01;1;3;1
+Liparidae;Liparis fabricii;Lip_spp;10;0;0;10;0;dem;4150;1;17.40;normal;3;2;2;1.5825;4147.5;26.4;7;2.685;8.5;3.17;0;2.666666667;0.333333333;0.333333333;0;0;3;0;2.666666667;0.336902821;3.785784333;1.76E-01;1;1;2
+Lumpenus fabricii;Lumpenus fabricii;Lum_fab;10;0;0;10;0;dem;490;2;23.00;eellike;2;2;2;3;490;23.00;7.00;3.00;14.00;4.67;0;0;1;1;0;0;2;0;1;0.25;3.25;6.25E-02;1;1;1
+Lumpenus lampretaeformis;Lumpenus lampretaeformis;Lum_lam;10;0;0;10;0;dem;700;1;50.00;eellike;3;3;2;0.8;334;50.00;16.00;8.00;14.50;1.81;1;5;3;0;0;0;6;0;3;0.577702838;3.328661;3.42E-01;1;3;1
+Macrourus berglax;Macrourus berglax;Mac_ber;5;5;0;10;0;pel;36500;2;82.50;elongated;1;3;3;2.2;36500;82.50;25.00;15.00;28.50;1.90;0;5;13;5;0;0;4;0;0;0.548676881;3.58154;5.60E-01;1;3;1
+Melanogrammus aeglefinus;Melanogrammus aeglefinus;Mel_aeg;5;5;0;5;5;pel;9085000;1;68.30;normal;3;3;3;1.43;9085000;110.00;20.00;5.50;37.00;6.73;0;17;45;22;0;0;16;3;7;0.563325145;3.715192;5.73E-01;1;3;1
+Merlangius merlangus;Merlangius merlangus;Mer_mer;5;5;0;5;5;pel;120535;1;42.40;normal;2;2;1;1.145;120535;42.40;20.00;2.00;25.00;12.50;0;4;8;16;0;0;4;1;2;0.421209103;4.162514;3.84E-01;1;3;3
+Microstomus kitt;Microstomus kitt;Mic_kit;10;0;0;10;0;pel;95000;1;50.00;flat;2;2;1;1.29;95000;60.00;10.00;5.00;25.00;5.00;0;0;2;0;0;0;1;0;1;0.353553391;3.25;6.25E-02;1;3;1
+Micromesistius poutassou;Micromesistius poutassou;Mic_pou;0;5;5;0;10;pel;122000;1;37.10;elongated;1;3;3;1.16;122000;37.10;20.00;4.50;25.10;5.58;0;17;4;19;0;0;16;1;4;0.355239181;4.212796;2.92E-01;2;3;5
+Molva molva;Molva molva;Mol_mol;5;5;0;10;0;pel;40000000;1;119.00;elongated;1;1;1;0.55;40000000;119.00;30.00;6.00;74.00;12.33;0;1;5;4;0;0;1;0;1;0.45072387;4.307627;3.98E-01;1;3;3
+Myoxocephalus scorpius;Myoxocephalus scorpius;Myo_sco;5;5;0;10;0;dem;2742;2;52.60;elongated;3;3;2;2.51;5868;38.00;10.00;3.50;10.00;2.86;0;1;2;1;0;0;4;0;2;0.579352803;3.56891;4.23E-01;1;3;4
+Pleuronectes platessa;Pleuronectes platessa;Ple_pla;10;0;0;10;0;pel;552000;2;54.40;flat;3;2;2;2.17;552000;86.00;36.00;10.00;26.60;2.66;0;5;21;4;0;0;3;0;3;0.474204803;3.517934;3.28E-01;1;3;1
+Pollachius virens;Pollachius virens;Pol_vir;0;10;0;0;10;pel;6630000;1;177.10;normal;3;3;3;1.125;6630000;177.10;30.00;5.50;55.40;10.07;0;13;4;16;0;1;6;2;8;0.479543629;4.088098;5.49E-01;2;3;5
+Rajella fyllae;Rajella fyllae;Raj_fyl;10;0;0;10;0;dem;47;3;57.00;flat;1;3;3;42;47;57.00;14.00;5.00;36.00;7.20;0;3;3;1;0;0;1;0;0;0.162354099;4.160872;2.83E-02;1;3;1
+Reinhardtius hippoglossoides;Reinhardtius hippoglossoides;Rei_hip;0;5;5;5;5;pel;28100;2;111.70;flat;3;3;3;4.25;28100;111.70;30.00;7.00;55.00;7.86;0;2;8;17;0;0;10;0;5;0.478589937;4.374154;4.90E-01;1;3;3
+Sebastes mentella;Sebastes mentella;Seb_men;0;5;5;5;5;ovo;83900;2;58.00;normal;2;3;3;6;83900;58.00;70.00;11.00;30.70;2.79;0;30;15;14;0;0;9;3;5;0.557780765;3.822277;6.33E-01;1;3;5
+Sebastes;Sebastes norvegicus;Seb_spp;5;5;0;5;5;ovo;85750;2;50.20;normal;1;3;3;6.8;85750;50.20;60.00;11.00;39.60;3.60;0;11;3;2;0;0;11;2;6;0.528395566;3.913256;5.76E-01;1;3;5
+Sebastes norvegicus;Sebastes norvegicus;Seb_spp;5;5;0;5;5;ovo;85750;2;50.20;normal;1;3;3;6.8;85750;50.20;60.00;11.00;39.60;3.60;0;11;3;2;0;0;11;2;6;0.528395566;3.913256;5.76E-01;1;3;5
+Sebastes viviparus;Sebastes viviparus;Seb_viv;5;5;0;10;0;ovo;15450;2;27.20;normal;1;3;3;5.8;15450;34.00;40.00;12.50;15.00;1.20;0;4;3;0;0;0;3;0;0;0.369348914;3.853585;2.45E-01;1;3;1
+Triglops murrayi;Triglops murrayi;Tri_mur;5;0;5;10;0;dem;450;2;15.60;elongated;2;3;3;2;329;17.20;10.00;4.00;7.60;1.90;0;5;1;1;0;0;4;0;0;0.315755194;3.956786;1.94E-01;1;3;1
+Triglops nybelini;Triglops nybelini;Tri_nyb;0;0;10;10;0;dem;800;1;10.10;elongated;2;2;3;1.875;541;14.50;7.00;3.00;5.60;1.87;0;3;1;0;0;0;3;0;0;0.495596039;3.786527;3.33E-01;1;1;2
+Triglops pingelii;Triglops pingelii;Tri_pin;5;0;5;10;0;dem;430;2;27.30;elongated;3;3;2;2.25;310;17.50;9.00;4.00;8.70;2.18;0;6;3;0;0;0;3;0;0;0.410142948;3.769903;2.67E-01;1;2;1
+Trisopterus esmarkii;Trisopterus esmarkii;Tris_esm;5;0;5;0;10;pel;222938;1;22.60;normal;2;3;2;1.095;222938;25.00;8.00;2.00;15.00;7.50;0;17;9;0;0;0;9;2;2;0.384529741;3.630568;2.56E-01;2;3;2
+Zoarcidae;Gymnelu sp;Zoa_spp;10;0;0;10;0;dem;194.2;2;32.39;elongated;1;2;2;4.838;226.5;39.73;13.9;3.4;16.2;4.76;0.166666667;3.833333333;3.5;0.166666667;0;0;2;0;1;0.294148808;3.774211286;0.197639764;1;1;1
